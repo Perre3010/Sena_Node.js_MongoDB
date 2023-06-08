@@ -1,0 +1,63 @@
+{
+	"results":
+	{
+		"id": 1,
+		"name": "Charizard",
+		"Tipo": "Fuego",
+		"Nivel": "20",
+		"Poderes": {
+			"P_Normal": "Lanza llamas",
+			"P_Especial": "Ataque rapido"
+		} 
+	},
+	{
+		"id": 2,
+		"name": "Evee",
+		"Tipo": "Normal",
+		"Nivel": "12",
+		"Poderes": {
+			"P_Normal": "Aruñazo",
+			"P_Especial": "Intimidar"
+		}
+	},
+	{
+		"id": 3,
+		"name": "Mew",
+		"Tipo": "Psiquico",
+		"Nivel": "87",
+		"Poderes": {
+			"P_Normal": "Bola estelar",
+			"P_Especial": "Ataque psiquico"
+		}
+	},
+	{
+		"id": 4,
+		"name": "Pikachu",
+		"Tipo": "Electrico",
+		"Nivel": "28",
+		"Poderes": {
+			"P_Normal": "Ataque rapido",
+			"P_Especial": "Cola de hierro"
+		} 
+	},
+	{
+		"id": 5,
+		"name": "Giarados",
+		"Tipo": "Agua",
+		"Nivel": "123",
+		"Poderes": {
+			"P_Normal": "Chorro de agua",
+			"P_Especial": "Hidrobomba"
+		}
+	},
+	{
+		"id": 6,
+		"name": "Deoxis",
+		"Tipo": "Psiquico",
+		"Nivel": "100",
+		"Poderes": {
+			"P_Normal": "Ataque rapido",
+			"P_Especial": "Ataque psiquico"
+		}
+	}
+}

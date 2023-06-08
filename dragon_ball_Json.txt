@@ -1,0 +1,69 @@
+{
+	"results":
+	{
+		"id": 1,
+		"Nombre": "Goku",
+		"Raza": "Sayayin",
+		"Nivel": "20",
+		"Poderes": {
+			"P_Normal": "Puñetazo",
+			"P_Especial": "ka-me ha-me ha"
+		},
+		"Poder_max": "200" 
+	},
+	{
+		"id": 2,
+		"Nombre": "Gohan",
+		"Raza": "Sayayin",
+		"Nivel": "10",
+		"Poderes": {
+			"P_Normal": "Puñetazo",
+			"P_Especial": "Makankosappo"
+		},
+		"Poder_max": "120" 
+	},
+	{
+		"id": 3,
+		"Nombre": "Vegeta",
+		"Raza": "Sayayin",
+		"Nivel": "30",
+		"Poderes": {
+			"P_Normal": "Puñetazo",
+			"P_Especial": "Resplandor final"
+		},
+		"Poder_max": "299" 
+	},
+	{
+		"id": 4,
+		"Nombre": "Picoro",
+		"Raza": "Namekusei",
+		"Nivel": "40",
+		"Poderes": {
+			"P_Normal": "Puñetazo",
+			"P_Especial": "Makankosappo"
+		},
+		"Poder_max": "150" 
+	},
+	{
+		"id": 5,
+		"Nombre": "Majin boo",
+		"Raza": "Desconocido",
+		"Nivel": "70",
+		"Poderes": {
+			"P_Normal": "abrazo fuerta",
+			"P_Especial": "Convertir a chocolate"
+		},
+		"Poder_max": "400" 
+	},
+	{
+		"id": 6,
+		"Nombre": "Broly",
+		"Raza": "Sayayin",
+		"Nivel": "500",
+		"Poderes": {
+			"P_Normal": "Patada",
+			"P_Especial": "Super Ka-me Ha-me Ha"
+		},
+		"Poder_max": "1500" 
+	}
+}
