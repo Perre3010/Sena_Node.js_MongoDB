@@ -11,4 +11,4 @@ var ProjectSchema = Schema({
     langs: [String]
 });
 
-module.exports = mongoose.model('Project',ProjectSchema);
+module.exports = mongoose.model('Projects',ProjectSchema);
